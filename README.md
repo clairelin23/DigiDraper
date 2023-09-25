@@ -17,6 +17,6 @@ that adapts robustly to changes in pose, shape, garment style and material speci
 
 # Methods
 We propose a pipeline that consists of three main steps in the following order:
-- (1) 2D image preprocessing with OpenPose [1] to get 2D joints for posing
-- (2) 2D to 3D reconstruction with SMPLify-X [2], and SMPL body parameter generation
-- (3) 3D garment draping derived from SNUG [3].
+1. 2D image preprocessing with OpenPose to get 2D joints for posing
+2. 2D to 3D reconstruction with SMPLify-X, and SMPL body parameter generation
+3. 3D garment draping derived from SNUG
