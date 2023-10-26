@@ -15,6 +15,9 @@ The goal of this project is to build an end-to-end garment draping pipeline whic
 self-supervised techniques for redressing garments in 3D on bodies reconstructed from 2D images,
 that adapts robustly to changes in pose, shape, garment style and material specifications.
 
+# Live demo
+https://www.youtube.com/watch?v=PSLpvdOGnYg
+
 # Methods
 We propose a pipeline that consists of three main steps in the following order:
 1. 2D image preprocessing with OpenPose to get 2D joints for posing
